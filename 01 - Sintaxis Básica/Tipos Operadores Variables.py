@@ -50,9 +50,6 @@ if numero1>numero2:
 	print("El numero1 es mayor")
 else:
 	print("El numero2 es mayor")
-print()
-print()
-print()
 
 
 
